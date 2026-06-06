@@ -7,6 +7,9 @@ The Event Management System is a web application developed using Node.js, Expres
 ---
 
 
+## VIVA LINK 
+
+[EVENT SYSTEM](https://drive.google.com/file/d/1EzvVNaX_c7IDbRoFMM7WsXnAYv-1aVMJ/view?usp=drive_link)
 
 ## Features
 
