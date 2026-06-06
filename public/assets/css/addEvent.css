@@ -1,0 +1,91 @@
+.add-event-area {
+    background: #000;
+    padding: 120px 0;
+}
+
+.add-event-box {
+    background: #111;
+    border-radius: 15px;
+    border: 1px solid #222;
+    overflow: hidden;
+}
+
+.add-event-header {
+    padding: 30px 40px;
+    border-bottom: 1px solid #222;
+}
+
+.add-event-header h2 {
+    color: #fff;
+    margin: 0;
+    font-weight: 700;
+}
+
+.add-event-body {
+    padding: 40px;
+}
+
+.add-event-body label {
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.add-event-body input,
+.add-event-body textarea {
+    width: 100%;
+    background: #1a1a1a;
+    border: 1px solid #333;
+    color: #fff;
+    padding: 14px 18px;
+    border-radius: 6px;
+}
+
+.add-event-body input {
+    height: 50px;
+}
+
+.add-event-body textarea {
+    min-height: 150px;
+    resize: vertical;
+}
+
+.add-event-body input:focus,
+.add-event-body textarea:focus {
+    outline: none;
+    border-color: #ff4b3e;
+}
+
+.add-event-body input[type="file"] {
+    padding: 10px;
+}
+
+.add-btn-group {
+    display: flex;
+    gap: 15px;
+    margin-top: 25px;
+}
+
+.btn-reset-custom {
+    color: #fff;
+    border: 1px solid #444;
+    background: transparent;
+    padding: 12px 30px;
+    border-radius: 4px;
+    transition: 0.3s;
+}
+
+.btn-reset-custom:hover {
+    border-color: #ff4b3e;
+    color: #ff4b3e;
+}
+
+.section-tag {
+    color: #ff4b3e;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 10px;
+}
